@@ -1,0 +1,90 @@
+
+body{
+    font-family: 'CircularStd-Book';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FONTS */
+
+@font-face {
+    font-family: 'Athelas Bold';
+    src: url('../fonts/athelas/Athelas-Bold.ttf');
+  }
+@font-face {
+    font-family: 'Athelas BoldItalic';
+    src: url('../fonts/athelas/Athelas-BoldItalic.ttf');
+  }
+@font-face {
+    font-family: 'AthelasItalic';
+    src: url('../fonts/athelas/Athelas-Italic.ttf');
+  }
+@font-face {
+    font-family: 'Athelas';
+    src: url('../fonts/athelas/Athelas-Regular.ttf');
+  }
+
+
+
+
+@font-face {
+    font-family: 'CircularStd-Black';
+    src: url('../fonts/circular-std-book/CircularStd-Black.otf');
+  }
+@font-face {
+    font-family: 'CircularStd-BlackItalic';
+    src: url('../fonts/circular-std-book/CircularStd-BlackItalic.otf');
+  }
+@font-face {
+    font-family: 'CircularStd-Bold';
+    src: url('../fonts/circular-std-book/CircularStd-Bold.otf');
+  }
+@font-face {
+    font-family: 'CircularStd-BoldItalic';
+    src: url('../fonts/circular-std-book/CircularStd-BoldItalic.otf');
+  }
+@font-face {
+    font-family: 'CircularStd-Book';
+    src: url('../fonts/circular-std-book/CircularStd-Book.otf');
+  }
+@font-face {
+    font-family: 'CircularStd-BookItalic';
+    src: url('../fonts/circular-std-book/CircularStd-BookItalic.otf');
+  }
+@font-face {
+    font-family: 'CircularStd-Medium';
+    src: url('../fonts/circular-std-book/CircularStd-Medium.otf');
+  }
+@font-face {
+    font-family: 'CircularStd-MediumItalic';
+    src: url('../fonts/circular-std-book/CircularStd-MediumItalic.otf');
+  }
